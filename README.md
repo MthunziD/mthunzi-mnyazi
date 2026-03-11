@@ -7,8 +7,8 @@ Python developer focused on:
 - Data analysis
 
 Projects working on ->
-Tutor booking system
-Country guessing game
+Tutor booking system,
+Country guessing game,
 Business automation tools
 
 Currently learning:
